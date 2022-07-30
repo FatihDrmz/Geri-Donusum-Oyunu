@@ -1,0 +1,25 @@
+C:\Users\PC\source\repos\NdpProje\NdpProje\bin\Debug\NdpProje.exe.config
+C:\Users\PC\source\repos\NdpProje\NdpProje\bin\Debug\NdpProje.exe
+C:\Users\PC\source\repos\NdpProje\NdpProje\bin\Debug\NdpProje.pdb
+C:\Users\PC\source\repos\NdpProje\NdpProje\obj\Debug\NdpProje.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\NdpProje\NdpProje\obj\Debug\NdpProje.Form1.resources
+C:\Users\PC\source\repos\NdpProje\NdpProje\obj\Debug\NdpProje.Properties.Resources.resources
+C:\Users\PC\source\repos\NdpProje\NdpProje\obj\Debug\NdpProje.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\NdpProje\NdpProje\obj\Debug\NdpProje.exe
+C:\Users\PC\source\repos\NdpProje\NdpProje\obj\Debug\NdpProje.pdb
+C:\Users\PC\Desktop\ndp proje\NdpProje\NdpProje\obj\Debug\NdpProje.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\ndp proje\NdpProje\NdpProje\obj\Debug\NdpProje.Form1.resources
+C:\Users\PC\Desktop\ndp proje\NdpProje\NdpProje\obj\Debug\NdpProje.Properties.Resources.resources
+C:\Users\PC\Desktop\ndp proje\NdpProje\NdpProje\obj\Debug\NdpProje.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\ndp proje\NdpProje\NdpProje\obj\Debug\NdpProje.exe
+C:\Users\PC\Desktop\ndp proje\NdpProje\NdpProje\obj\Debug\NdpProje.pdb
+C:\Users\PC\Desktop\ndp proje\NdpProje\NdpProje\bin\Debug\NdpProje.exe.config
+C:\Users\PC\Desktop\ndp proje\NdpProje\NdpProje\bin\Debug\NdpProje.exe
+C:\Users\PC\Desktop\ndp proje\NdpProje\NdpProje\bin\Debug\NdpProje.pdb
+C:\Users\PC\Desktop\C#\ndp proje\NdpProje\NdpProje\obj\Debug\NdpProje.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\C#\ndp proje\NdpProje\NdpProje\obj\Debug\NdpProje.Form1.resources
+C:\Users\PC\Desktop\C#\ndp proje\NdpProje\NdpProje\obj\Debug\NdpProje.Properties.Resources.resources
+C:\Users\PC\Desktop\C#\ndp proje\NdpProje\NdpProje\obj\Debug\NdpProje.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\C#\ndp proje\NdpProje\NdpProje\obj\Debug\NdpProje.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C#\ndp proje\NdpProje\NdpProje\obj\Debug\NdpProje.exe
+C:\Users\PC\Desktop\C#\ndp proje\NdpProje\NdpProje\obj\Debug\NdpProje.pdb
